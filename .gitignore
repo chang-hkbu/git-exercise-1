@@ -1,0 +1,6 @@
+# Python项目忽略文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
